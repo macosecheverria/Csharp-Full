@@ -1,0 +1,14 @@
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/bin/Debug/net8.0/DemoConsolaCodigoFacilito
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/bin/Debug/net8.0/DemoConsolaCodigoFacilito.deps.json
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/bin/Debug/net8.0/DemoConsolaCodigoFacilito.runtimeconfig.json
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/bin/Debug/net8.0/DemoConsolaCodigoFacilito.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/bin/Debug/net8.0/DemoConsolaCodigoFacilito.pdb
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.GeneratedMSBuildEditorConfig.editorconfig
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.AssemblyInfoInputs.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.AssemblyInfo.cs
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.csproj.CoreCompileInputs.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/refint/DemoConsolaCodigoFacilito.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.pdb
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/DemoConsolaCodigoFacilito.genruntimeconfig.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/DemoConsolaCodigoFacilito/DemoConsolaCodigoFacilito/obj/Debug/net8.0/ref/DemoConsolaCodigoFacilito.dll

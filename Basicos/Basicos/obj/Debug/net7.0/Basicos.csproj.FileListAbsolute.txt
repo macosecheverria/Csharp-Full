@@ -1,0 +1,14 @@
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/bin/Debug/net7.0/Basicos
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/bin/Debug/net7.0/Basicos.deps.json
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/bin/Debug/net7.0/Basicos.runtimeconfig.json
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/bin/Debug/net7.0/Basicos.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/bin/Debug/net7.0/Basicos.pdb
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.AssemblyInfoInputs.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.AssemblyInfo.cs
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.csproj.CoreCompileInputs.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/refint/Basicos.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.pdb
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/Basicos.genruntimeconfig.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/Basicos/obj/Debug/net7.0/ref/Basicos.dll

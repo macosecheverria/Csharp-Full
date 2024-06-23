@@ -1,0 +1,14 @@
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/bin/Debug/net7.0/Arreglos
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/bin/Debug/net7.0/Arreglos.deps.json
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/bin/Debug/net7.0/Arreglos.runtimeconfig.json
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/bin/Debug/net7.0/Arreglos.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/bin/Debug/net7.0/Arreglos.pdb
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfoInputs.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfo.cs
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.csproj.CoreCompileInputs.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/refint/Arreglos.dll
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.pdb
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/Arreglos.genruntimeconfig.cache
+/home/marquino/Documentos/Frontend_Backend/CSharp/Arreglos/obj/Debug/net7.0/ref/Arreglos.dll

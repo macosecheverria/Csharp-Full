@@ -1,0 +1,14 @@
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/marquino/Frontend_Backend/CSharp/Basicos/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
